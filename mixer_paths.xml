@@ -340,7 +340,7 @@
     <path name="voice-speaker">
         <path name="speaker" />
         <ctl name="SPK DRV Volume" value="8" />
-        <ctl name="RX7 Digital Volume" value="94" />
+        <ctl name="RX7 Digital Volume" value="96" />
     </path>
 
     <path name="voice-speaker-mic">

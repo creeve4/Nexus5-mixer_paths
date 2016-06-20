@@ -304,8 +304,8 @@
 
     <path name="handset-mic">
         <path name="adc1" />
-	          <ctl name="ADC1 Volume" value="16" />
-	          <ctl name="DEC6 Volume" value="86" />
+	          <ctl name="ADC1 Volume" value="17" />
+	          <ctl name="DEC6 Volume" value="90" />
     </path>
 
     <path name="headphones">

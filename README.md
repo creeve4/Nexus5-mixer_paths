@@ -17,5 +17,5 @@ Definitions:
 |                    |TAIKO_A_RX_HPH_R_GAIN           |HPHR Volume        |
 
 References:
-https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-marshmallow-mr2/sound/soc/codecs/wcd9320.c
-https://github.com/flar2/ElementalX-N5/blob/ae27e4b1c8166b03b98142ce0b0d559f58044019/sound/soc/codecs/sound_control_3_gpl.c
+- https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-marshmallow-mr2/sound/soc/codecs/wcd9320.c
+- https://github.com/flar2/ElementalX-N5/blob/ae27e4b1c8166b03b98142ce0b0d559f58044019/sound/soc/codecs/sound_control_3_gpl.c

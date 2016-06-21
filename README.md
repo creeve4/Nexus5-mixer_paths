@@ -6,6 +6,7 @@ Definitions:
 - DEC#   - digital gain
 - HPH    - line gain
 
+|--------------------|---------------------------- |
 |cam_mic_gain        |TAIKO_A_CDC_TX6_VOL_CTL_GAIN |
 |mic_gain            |TAIKO_A_CDC_TX7_VOL_CTL_GAIN |
 |speaker_gain        |TAIKO_A_CDC_RX7_VOL_CTL_B2_CTL |

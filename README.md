@@ -6,6 +6,7 @@ Definitions:
 - DEC#   - digital gain
 - HPH    - line gain
 
+|Description         |Address                      |
 |--------------------|---------------------------- |
 |cam_mic_gain        |TAIKO_A_CDC_TX6_VOL_CTL_GAIN |
 |mic_gain            |TAIKO_A_CDC_TX7_VOL_CTL_GAIN |
@@ -14,8 +15,3 @@ Definitions:
 |                    |TAIKO_A_CDC_RX2_VOL_CTL_B2_CTL |
 |headphone_pa_gain   |TAIKO_A_RX_HPH_L_GAIN |
 |                    |TAIKO_A_RX_HPH_R_GAIN |
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |

@@ -318,8 +318,6 @@
         <ctl name="HPHL DAC Switch" value="1" />
         <ctl name="RX1 Digital Volume" value="88" />
         <ctl name="RX2 Digital Volume" value="88" />
-        <ctl name="HPHL Volume" value="20" />
-        <ctl name="HPHR Volume" value="20" />
     </path>
 
     <path name="headset-mic">
@@ -358,8 +356,6 @@
 
     <path name="voice-headphones">
         <path name="headphones" />
-        <ctl name="HPHL Volume" value="20" />
-        <ctl name="HPHR Volume" value="20" />
         <ctl name="RX1 Digital Volume" value="96" />
         <ctl name="RX2 Digital Volume" value="96" />
     </path>
@@ -372,8 +368,6 @@
 
     <path name="speaker-and-headphones">
         <path name="headphones" />
-        <ctl name="HPHL Volume" value="20" />
-        <ctl name="HPHR Volume" value="20" />
         <ctl name="RX1 Digital Volume" value="96" />
         <ctl name="RX2 Digital Volume" value="96" />
         <ctl name="RX7 MIX1 INP1" value="RX1" />

@@ -360,8 +360,8 @@
         <path name="headphones" />
         <ctl name="HPHL Volume" value="20" />
         <ctl name="HPHR Volume" value="20" />
-        <ctl name="RX1 Digital Volume" value="95" />
-        <ctl name="RX2 Digital Volume" value="95" />
+        <ctl name="RX1 Digital Volume" value="98" />
+        <ctl name="RX2 Digital Volume" value="98" />
     </path>
 
     <path name="voice-headset-mic">
@@ -374,8 +374,8 @@
         <path name="headphones" />
         <ctl name="HPHL Volume" value="20" />
         <ctl name="HPHR Volume" value="20" />
-        <ctl name="RX1 Digital Volume" value="95" />
-        <ctl name="RX2 Digital Volume" value="95" />
+        <ctl name="RX1 Digital Volume" value="98" />
+        <ctl name="RX2 Digital Volume" value="98" />
         <ctl name="RX7 MIX1 INP1" value="RX1" />
         <ctl name="RX7 Digital Volume" value="96" />
     </path>
